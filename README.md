@@ -1,7 +1,7 @@
  <h1 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/gabriel-arruda-08014b1b4/"><i>Gabriel Arruda 👨🏻‍💻</i></a><br><br> </h1>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieladstirererer&color=blue" alt="Profile views" /></p>
   
- <p>👨‍💻 Estagiário de Desenvolvimento .NET </p>
+ <p>👨‍💻 Desenvolvedor Full Stack .NET </p>
 
 <div align="center">
   <a href="https://github.com/gabrieladstirererer">
